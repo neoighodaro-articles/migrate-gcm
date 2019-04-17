@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GCMSample</string>
+    <string name="channel_name">beams</string>
+    <string name="channel_description">Display notifications with Pusher Beams</string>
+</resources>
