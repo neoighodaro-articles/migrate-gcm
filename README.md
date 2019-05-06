@@ -1,7 +1,7 @@
-# migrate-gcm
-
 # Migrate a GCM app to Beams
 An app that shows how to add Beams to an app.
+
+- https://pusher.com/tutorials/migrating-gcm-pusher-beams
 
 ## Getting Started
 
